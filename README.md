@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @israelrotimi
-- 👀 I’m interested in html, css, js, python, c++, mobile app development and game development
-- 🌱 I’m currently learning express, vue and react
-- 💞️ I’m looking to collaborate on JavaScript and python projects
+- 👀 I’m interested in html, css, js, php, c++, mobile app development and game development
+- 🌱 I’m currently learning php, vue and react
+- 💞️ I’m looking to collaborate on JavaScript, MERN stack, vue, php and projects
 - 📫 How to reach me: izzyrotimi@gmail.com
 
 <!---
