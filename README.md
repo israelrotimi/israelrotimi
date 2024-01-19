@@ -1,5 +1,7 @@
 # 👋 Hi, I’m israel rotimi @israelrotimi
 
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="center">
+
 <div align="center">
   <h3 align="center">My skillset</h3>
   <a href="https://skillicons.dev">
