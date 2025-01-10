@@ -1,28 +1,45 @@
-# 👋 Hi, I’m israel rotimi @israelrotimi
+# Hi there, I'm Israel Rotimi 👋
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="center">
+I'm a passionate software developer with a keen interest in building innovative solutions. Here's a bit more about me:
 
-<div align="center">
-  <h3 align="center">My skillset</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs" />
-  </a>
-</div>
-<div align="center">
-  <h3>You can reach me:</h3>
-  <a href="mailto:izzyrotimi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="izzyrotimi@gmail.com">
-  </a>
-  <a href="https://twitter.com/izzyrotimi">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="twitter.com/izzyrotimi">
-  </a>
-</div>
- 
-- 👀 I’m interested in frontend projects, mobile app development and game development
-- 🌱 I’m currently learning php, vue and react
-- 💞️ I’m looking to collaborate on JavaScript, MERN stack and vue
-- 📫 How to reach me: 
+## 🔧 Technologies & Tools
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 🌱 Currently Learning
+
+- Advanced TypeScript
+- Cloud Computing with AWS
+- Machine Learning with Python
+
+## 📈 GitHub Stats
+
+![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelrotimi&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelrotimi&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- Email: [israelrotimi@example.com](mailto:israelrotimi@example.com)
+- LinkedIn: [linkedin.com/in/israelrotimi](https://www.linkedin.com/in/israelrotimi)
+- Twitter: [@israelrotimi](https://twitter.com/israelrotimi)
+
+## ⚡ Fun fact
+
+I love contributing to open-source projects and I am always excited to collaborate with other developers on innovative projects.
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 <!---
 israelrotimi/israelrotimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
