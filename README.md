@@ -15,17 +15,9 @@ I'm a passionate software developer with a keen interest in building innovative 
 
 ## 🌱 Currently Learning
 
-- Advanced TypeScript
+- Advanced TypeScript and Next.js
 - Cloud Computing with AWS
 - Machine Learning with Python
-
-## 📈 GitHub Stats
-
-![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=israelrotimi&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelrotimi&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
