@@ -22,9 +22,9 @@ I'm a passionate software developer with a keen interest in building innovative 
 
 ## 📫 How to reach me
 
-- Email: [israelrotimi@example.com](mailto:israelrotimi@example.com)
-- LinkedIn: [linkedin.com/in/israelrotimi](https://www.linkedin.com/in/israelrotimi)
-- Twitter: [@israelrotimi](https://twitter.com/israelrotimi)
+- Email: [israelrotimijobs@gmail.com](mailto:israelrotimijobs@gmail.com)
+- LinkedIn: [linkedin.com/in/israel-rotimi](https://www.linkedin.com/in/israel-rotimi)
+
 
 ## ⚡ Fun fact
 
