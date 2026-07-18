@@ -1,39 +1,43 @@
 # Hi there, I'm Israel Rotimi 👋
 
-I'm a passionate software developer with a keen interest in building innovative solutions. Here's a bit more about me:
+I'm a full-stack software engineer focused on building highly optimized, interactive, and AI-driven web applications. I bridge the gap between complex backend engineering and rich, fluid user interfaces.
 
-## 🔧 Technologies & Tools
+## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Frontend & 3D
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🌱 Currently Learning
-
-- Advanced TypeScript and Next.js
-- Cloud Computing with AWS
-- Machine Learning with Python
-
-## 📫 How to reach me
-
-- Email: [israelrotimijobs@gmail.com](mailto:israelrotimijobs@gmail.com)
-- LinkedIn: [linkedin.com/in/israel-rotimi](https://www.linkedin.com/in/israel-rotimi)
-
-
-## ⚡ Fun fact
-
-I love contributing to open-source projects and I am always excited to collaborate with other developers on innovative projects.
+### Dev Tools, DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-<!---
-israelrotimi/israelrotimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Exploring & Engineering
+*   **Cloud Infrastructure:** Architecting distributed system models and deploying with AWS.
+*   **Machine Learning:** Developing standalone Python workflows for intelligent data processing.
+*   **Performance Optimization:** Tuning Core Web Vitals and data validation layers for production readiness.
+
+---
+
+## 📬 How to Reach Me
+*   **Email:** israelrotimijobs@gmail.com
+*   **LinkedIn:** [linkedin.com/in/israelrotimi](https://linkedin.com/in/israelrotimi)
+
+---
+
+## ⚡ Fun Fact
+When I'm not writing clean code, I enjoy designing alternative hardware hacks or building functional physical projects out of everyday recycled materials!
